@@ -1,0 +1,6 @@
+Flask==2.0.3
+Authlib==0.15.3
+openai==0.10.3
+pyyaml==5.4.1
+gunicorn==20.1.0
+aiohttp==3.8.1  
